@@ -20,7 +20,7 @@ export const FACILIDADES_LINKS: LinkItem[] = [
   },
   {
     title: "FORMATO SOLICITUD FACILIDADES DE PAGO",
-    url: "/SOLICITUD.pdf",
+    url: "https://github.com/davidnaranjorios/LANDING-PAGE-FERIA-DE-SERVICIOS/raw/main/SOLICITUD.pdf",
     type: "download"
   }
 ];
