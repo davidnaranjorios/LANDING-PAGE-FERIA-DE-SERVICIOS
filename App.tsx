@@ -20,5 +20,5 @@ function App() {
     </div>
   );
 }
-
+import { Analytics } from "@vercel/analytics/next"
 export default App;
