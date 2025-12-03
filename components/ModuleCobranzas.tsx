@@ -44,6 +44,8 @@ export const ModuleCobranzas: React.FC = () => {
                 
                 <p className="mb-8 text-blue-100">
                   Acceda a la información oficial y descargue los formatos necesarios para solicitar facilidades de pago.
+                  Puede radicar la solicitud en el correo 
+                  corresp_entrada_cali-imp@dian.gov.co
                 </p>
 
                 <div className="space-y-4">
