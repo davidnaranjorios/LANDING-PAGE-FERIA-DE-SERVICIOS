@@ -44,7 +44,7 @@ export const Hero: React.FC = () => {
         <div className="inline-flex items-center bg-white/10 backdrop-blur-md rounded-full px-6 py-2 mt-4 border border-white/20 mb-6">
           <Calendar className="w-5 h-5 text-blue-300 mr-2" />
           <span className="text-xl md:text-2xl text-blue-100 font-semibold">
-            26 de Noviembre 2025
+            11 de Diciembre 2025
           </span>
         </div>
         
